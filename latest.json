@@ -3,13 +3,18 @@
   "version": "2026.11.09d",
   "channel": "stable",
   "released_at": "2026-11-10",
-  "notes": "首次上传 macOS 安装包。本版含更新页「检查 GitHub 更新」、产品测试修复（hs-01 佐佐木配音与姓名条）、DSH 残留与分句配音修复，以及标日初级上/下与人教版语法白板等内容。下载 zip 后解压得到「未来中学日语物语.app」，覆盖 Applications 中的旧版后重启；软件不会自动替换。课堂内测改编，未获授权请勿再分发。",
+  "notes": "本版提供 macOS 与 Windows 安装包。Windows：解压后双击 KyoanJapanese.exe（或 start.bat / 启动.bat）。若 SmartScreen 提示「已保护你的电脑」，点「更多信息」→「仍要运行」。无需安装 Python、Node 或 Chrome。macOS：解压得到「未来中学日语物语.app」，覆盖 Applications 中的旧版后重启。软件不会自动替换。课堂内测改编，未获授权请勿再分发。",
   "assets": {
     "macos": {
       "url": "https://github.com/chengzi-06/mirai-nihongo-monogatari-releases/releases/download/v2026.11.09d/MiraiNihongoMonogatari-2026.11.09d-macos.zip",
       "sha256": "c19c1c795b42c6738a2d567679b41fabdfb815e5deaee7939856b7109e4c2005",
       "size": 852498568
     },
-    "web": null
+    "web": null,
+    "windows": {
+      "url": "https://github.com/chengzi-06/mirai-nihongo-monogatari-releases/releases/download/v2026.11.09d/MiraiNihongoMonogatari-2026.11.09d-windows.zip",
+      "sha256": "8e562710ec3029c2862db60cf0b2d1d14cc0e5ef1e32bbd666e7447fd33c2c5e",
+      "size": 960961205
+    }
   }
 }
