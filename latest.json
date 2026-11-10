@@ -1,0 +1,11 @@
+{
+  "format": "kyoan-vn-update",
+  "version": "2026.11.09c",
+  "channel": "stable",
+  "released_at": "2026-11-10",
+  "notes": "当前清单为占位：安装包尚未上传到本仓库。软件内可检查版本；有新包后会显示下载按钮。",
+  "assets": {
+    "macos": null,
+    "web": null
+  }
+}
