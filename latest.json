@@ -3,9 +3,13 @@
   "version": "2026.11.09d",
   "channel": "stable",
   "released_at": "2026-11-10",
-  "notes": "当前清单为占位：安装包尚未上传到本仓库。软件内可检查版本；有新包后会显示下载按钮。本批：更新页已接入 GitHub 检查更新。",
+  "notes": "首次上传 macOS 安装包。本版含更新页「检查 GitHub 更新」、产品测试修复（hs-01 佐佐木配音与姓名条）、DSH 残留与分句配音修复，以及标日初级上/下与人教版语法白板等内容。下载 zip 后解压得到「未来中学日语物语.app」，覆盖 Applications 中的旧版后重启；软件不会自动替换。课堂内测改编，未获授权请勿再分发。",
   "assets": {
-    "macos": null,
+    "macos": {
+      "url": "https://github.com/chengzi-06/mirai-nihongo-monogatari-releases/releases/download/v2026.11.09d/MiraiNihongoMonogatari-2026.11.09d-macos.zip",
+      "sha256": "c19c1c795b42c6738a2d567679b41fabdfb815e5deaee7939856b7109e4c2005",
+      "size": 852498568
+    },
     "web": null
   }
 }
